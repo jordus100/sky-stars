@@ -1,0 +1,4 @@
+Hand sprite - Font Awesome by Dave Gandy - https://fortawesome.github.com/Font-Awesome
+Streetwear font - Designed by Artimasa (http://www.artimasa.com)
+Music - http://freemusicarchive.org/music/Monplaisir/Relaxing_Ukulele/Monplaisir_-_Relaxing_Ukulele_-_03_Time_Gap
+UI sprites - https://www.gamedevmarket.net/member/yurakr/
